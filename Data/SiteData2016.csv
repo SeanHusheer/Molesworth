@@ -1,0 +1,344 @@
+#####SitedataenteredbyLizzie 2016,,,,,,,,,,,,,,,,,,,,
+##GPS references in NZTM 2000,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Line,Plot,Area,Date,People,Substrate,Cultural,East,North,Altitude,Aspect,Slope,Shape,Physiography,Time,Drainage,Species,Animal,Score,Pellets,Comments
+A,1,Lake Tennyson,16/01/16,"Lizzie, Emi, Sean",Colluvial,,1579992,5327135,1140,140,15,Linear,Face,2,Good,POAcol,hare,L,Yes,
+A,1,,,,,,,,,,,,,,,CHImac,hare,L,,
+A,2,Lake Tennyson,16/01/16,"Lizzie, Emi, Sean",Colluvial,,1580073,5327316,1170,140,25,Linear,Face,2,Good,POAcol,hare,L,Yes,
+A,2,,,,,,,,,,,,,,,CHImac,hare,L,,
+A,2,,,,,,,,,,,,,,,CELmon,hare,L,,
+A,3,Lake Tennyson,16/01/16,"Lizzie, Emi, Sean",Colluvial,,1580168,5327495,1200,100,25,Linear,Face,2,Good,CHImac,hare,L,Yes,No sign of cattle nearby
+A,4,Lake Tennyson,16/01/16,"Lizzie, Emi, Sean",Colluvial,,1580243,5327686,1240,90,25,Linear,Face,2.5,Good,POAcol,hare,L,Yes,Chionachloa appears to be regerating with numerous small plants
+AR,1Fe,Alma Bend,02/02/16,"Sean, Emi",Colluvial,Grazed,1589261,5317371,1170,10,22,Linear,Face,4,Good,POAcol,hare,L,Yes,Fence does not exclude cattle from this plot. Heavily trampled
+AR,1Fe,,,,,,,,,,,,,,,AGRcap,cattle,L,Yes,
+AR,1Fe,,,,,,,,,,,,,,,ANTodo,cattle,L,Yes,
+AR,1Un,Alma River,02/02/16,"Sean, Emi",Colluvial,,1589266,5317367,1170,30,20,Linear,Face,3,Good,RYTset,cattle,M,Yes,On colluvial slope 50m above alluvial terrace
+AR,1Un,,,,,,,,,,,,,,,FESrub,cattle,,,
+AR,1Un,,,,,,,,,,,,,,,CHImac,hare,M,Yes,
+AR,2Fe,Alma River,02/03/16,"Sean, Emi, Betka",Colluvial,,1589352,5317539,1215,24,22,Convex,Face,2.5,Good,CHImac,hare,L,Yes,Center peg up rooted
+AR,2Fe,,,,,,,,,,,,,,,CHIfla,hare,L,Yes,
+AR,2Un,Alma River,02/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1589357,5317541,1214,90,33,Linear,Face,2.5,Good,RYTset,cattle,L,Yes,B and C pegs up rooted
+AR,2Un,,,,,,,,,,,,,,,RYTset,hare,L,Yes,
+AR,2Un,,,,,,,,,,,,,,,CHImac,hare,L,Yes,
+AR,3Fe,Alma River,02/03/16,"Sean, Emi, Betka",Colluvial,,1589039,5317209,1270,30,10,Convex,Face,3,Good,CHImac,hare,L,Yes,Fence poor. Cattle have access
+AR,3Fe,,,,,,,,,,,,,,,CHIfla,hare,H,Yes,
+AR,3Un,Alma River,02/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1589046,5317206,1268,90,8,Linear,Face,3,Good,CHImac,hare,M,Yes,A and center pegs up rooted
+B,1,Turk Ridge,01/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1587683,5336459,1437,220,32,Convex,Face,2,Good,RYTset,hare,M,Yes,"All pegs found, even on active scree. No cattle here."
+B,1,,,,,,,,,,,,,,,CHImac,hare,M,,
+B,1,,,,,,,,,,,,,,,POAcol,hare,L,,
+B,2,Turk Ridge,01/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1587607,5336178,1347,220,30,Linear,Face,,Good,MELalp,hare,H,Yes,"All pegs found, Rock field. No sign of cattle"
+B,3,Turk Ridge,01/03/16,"Sean, Emi, Betka",Morraine,Grazed,1587540,5335997,1296,220,12,Linear,Face,3,Good,MELalp,hare,H,Yes,A and B pegs up rooted
+B,3,,,,,,,,,,,,,,,RYTset,cattle,M,Yes,
+B,3,,,,,,,,,,,,,,,RYTset,hare,M,Yes,
+B,3,,,,,,,,,,,,,,,COPpro,hare,M,Yes,
+B,4,Turk Ridge,01/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1587487,5335813,1308,70,18,Convex,Face,2.5,Good,CHIfla,hare,H,Yes,All pegs found
+C,1,Bowscale,15/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1596634,5338232,1430,18,31,,Face,3,Good,CHIfla,chamois,M,Yes,No cattle
+C,2,Bowscale,15/02/16,"Sean, Emi, Betka",,Grazed,1596578,5338054,1440,150,41,Concave,Gully,3.5,Good,CHImac,chamois,L,Yes,No cattle this high
+C,3,Bowscale,14/02/16,"Sean, Emi, Betka",Colluvial,,1596515,5337884,1420,58,38,Concave,Face,3,Good,CHIfla,hare,L,Yes,No cattle this high on slope. Debris field through plot. Many spp missing
+C,4,Bowscale,15/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1596438,5337717,1335,112,34,Concave,Gully,3,Good,CHIfla,hare,L,Yes,Above cattle grazing
+CC,1Fe,Cat Creek,23/03/16,"Sean, Lizzie",,,1590079,5328907,1097,160,11,Linear,Face,3,Good,RYTset,hare,M,Yes,All pegs found intact
+CC,1Fe,,,,,,,,,,,,,,,RYTset,deer,L,Yes,
+CC,1Un,Cat Creek,23/03/16,"Sean, Lizzie",Colluvial,Grazed,1590092,5328903,1103,140,8,Convex,Face,4,Good,RYTset,hare,L,Yes,Cattle appear uninterested in this site
+CC,1Un,,,,,,,,,,,,,,,RYTset,cattle,L,Yes,
+CC,3Fe,Cat Creek,22/03/16,"Sean, Lizzie",Alluvial,Grazed,1589977,5328764,1089,80,2,Linear,Terrace,3.5,Good,RYTset,cattle,M,Yes,"Should be fenced to exclude cattle. Fence in poor condition, for many years"
+CC,2Fe,Cat Creek,22/03/16,"Sean, Lizzie",Colluvial,,1590047,5328856,1085,160,3,Linear,Terrace,3,Medium,FESrub,cattle,M,Yes,"Heavy grazing through washed-out fence. River bed approaching plot, all pegs found, but A up rooted"
+CC,2Fe,,,,,,,,,,,,,,,RYTset,hare,M,Yes,"C, D, A and Center pegs crushed"
+CC,2Fe,,,,,,,,,,,,,,,AGRcap,cattle,M,Yes,
+CC,2Fe,,,,,,,,,,,,,,,HOLlan,cattle,M,Yes,
+CC,2Un,Cat Creek,22/03/16,"Sean, Lizzie",Alluvial,Grazed,1590059,5328777,1085,40,2,Linear,Terrace,3,Medium,FESrub,cattle,H,Yes,"All pegs found, other than stream taking C peg"
+CC,2Un,,,,,,,,,,,,,,,SCHpau,cattle,M,,
+CC,2Un,,,,,,,,,,,,,,,SCHpau,hare,M,Yes,
+CC,3Un,Cat Creek,22/03/16,"Sean, Lizzie",,Grazed,1590018,5328768,1086,100,3,Linear,Terrace,3.5,Good,FESrub,cattle,H,Yes,"Intense grazing, A peg crushed. Center peg up rooted"
+CC,3Un,,,,,,,,,,,,,,,RYTset,cattle,M,,
+CC,3Un,,,,,,,,,,,,,,,FESnov,cattle,L,,
+CC,3Un,,,,,,,,,,,,,,,RYTset,hare,L,Yes,
+D,1,Severn,27/02/16,"Sean, Graeme, Emi, Betka",Colluvial,,1601081,5340211,1000,45,14,Convex,Terrace,3,Good,FESrub,hare,L,Yes,"A,B,D and Center pegs up rooted (4). May have had cattle in area in past year"
+D,1,,,,,,,,,,,,,,,,cattle,,Yes,
+D,2,Severn,27/02/16,"Sean, Graeme, Emi, Betka",Colluvial,Grazed,1601162,5340390,1020,218,7,Linear,Terrace,3,Good,RYTset,hare,M,Yes,"Not grazed for two summers. A,C,D and Center pegs up rooted"
+D,3,Severn,27/02/16,"Sean, Graeme, Emi, Betka",Colluvial,Grazed,1601236,5340576,1045,228,29,Linear,Face,3,Good,POAcit,dear,L,Yes,No cattle here for two summers. Grass growth crowding out native herbs
+D,3,,,,,,,,,,,,,,,FESrub,dear,L,Yes,
+D,4,Severn,27/02/16,"Sean, Graeme, Emi, Betka",Colluvial,Grazed,1601315,5340760,1070,280,29,Linear,Face,3.5,Good,POAcol,hare,L,Yes,Not grazed for two years priort measure
+F,1,Crimea,03/03/16,"Sean, Emi, Betka",,Grazed,1590106,5325775,1356,44,35,Concave,Gully,4,Medium,CHIfla,hare,L,Yes,No cattle here. B and D pegs up rooted on scree. Stream through plot
+F,2,Crimea,03/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1590051,5325593,1386,355,28,Convex,Face,3,Good,RYTset,hare,L,Yes,No cattle here
+F,2,,,,,,,,,,,,,,,RYTset,possum,L,Yes,
+F,2,,,,,,,,,,,,,,,CHIfla,hare,M,Yes,
+F,2,,,,,,,,,,,,,,,CHImac,hare,M,Yes,
+F,3,Crimea,03/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1589993,5325409,1440,110,27,Linear,Face,3,Good,CHImac,hare,L,Yes,No cattle this high
+F,4,Crimea,03/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1589916,5325240,1366,180,37,Concave,Face,3,Good,CHImac,hare,L,Yes,All pegs found. Too high for cattle
+G,1,Mitre,04/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1593495,5325825,1472,360,35,Linear,Face,3,Good,CHIfla,hare,M,Yes,No cattle this high
+G,1,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+G,2,Mitre,04/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1593432,5325680,1397,182,34,Linear,Gully,3,Good,CHImac,chamois,L,Yes,No cattle here. Center and B corner peg lost
+G,2,,,,,,,,,,,,,,,PILpra,hare,L,Yes,
+G,3,Mitre,04/03/16,"Sean, Emi, Betka",,Grazed,1593366,5326633,1291,170,24,Concave,Gully,3.5,Medium,RYTset,hare,L,Yes,"No cattle, all pegs found"
+G,3,,,,,,,,,,,,,,,RYTset ,deer,L,Yes,
+G,4,Mitre,04/03/16,"Sean, Emi, Betka",Colluvial,Grazed,1593305,5325355,1220,220,33,Convex,Face,2.5,Good,CHImac,hare,L,Yes,No sign of cattle near plot
+G,4,,,,,,,,,,,,,,,CHIfla,hare,H,Yes,
+H,1,Yarra,31/01/16,"Sean, Emi",Colluvial,Grazed,1597797,5319427,1115,330,32,Linear,Face,2.5,Good,MELalp,hare,M,Yes,Cattle rarely this high on line
+H,2,Yarra,31/01/16,"Sean, Emi",Colluvial,Grazed,1597855,5319597,1025,266,24,Linear,Face,3,Good,FESnov,hare,L,Yes,Plot above grazing mgmt fence
+H,2,,,,,,,,,,,,,,,POApra,cattle,L,Yes,
+H,3,Yarra,31/01/16,"Sean, Emi",Colluvial,Grazed,1597952,5319866,1030,175,22,Linear,Face,2.5,Good,POAcol,hare,L,Yes,Up river of grazing mgmt fence (as are all plots on line H)
+H,3,,,,,,,,,,,,,,,POAcol,chamois,L,Yes,
+H,3,,,,,,,,,,,,,,,POAcol,cattle,L,Yes,
+H,4,Yarra,31/01/16,"Sean, Emi",Colluvial,Grazed,1592020,5320037,1100,220,24,Linear,Face,3,Good,MELalp,hare,M,Yes,Cattle unlikely to graze this high above valley floor
+HG,1Fe,Horse Gully,25/03/16,"Sean, Lizzie",Morraine,,1593000,5337478,1004,280,4,Linear,Terrace,3,Good,RYTset,hare,M,Yes,Signs of cattle grazing around plot. Fence in poor condition
+HG,1Fe,,,,,,,,,,,,,,,CHIfla,hare,M,Yes,
+HG,1Un,Horse Gully,25/03/16,"Sean, Lizzie",Morraine,Grazed,1592955,5337475,1002,250,2,Linear,Terrace,3,Good,RYTset,hare,L,Yes,"A corner peg crushed, Center and D peg up rooted"
+HG,1Un,,,,,,,,,,,,,,,RYTset,cattle,L,Yes,
+HG,2Fe,Horse Gully,26/03/16,"Sean, Lizzie",Morraine,,1592950,5337601,997,250,5,Linear,Terrace,3,Medium,FESrub,cattle,L,Yes,"Fenced, but cattle have grazed plot"
+HG,2Fe,,,,,,,,,,,,,,,RYTset,hare,M,Yes,
+HG,2Un,Horse Gully,26/03/16,"Sean, Lizzie",Morraine,Grazed,1592884,5337601,999,200,4,Linear,Terrace,3,Medium,RYTset,cattle,L,Yes,"A corner peg crushed, Center peg up rooted"
+HG,2Un,,,,,,,,,,,,,,,RYTset,hare,L,Yes,
+HG,2Un,,,,,,,,,,,,,,,FESrub,cattle,L,Yes,
+HG,2Un,,,,,,,,,,,,,,,AGRcap,cattle,L,Yes,
+HG,3Fe,Horse Gully,25/03/16,"Sean, Lizzie",,Grazed,1593127,5337141,998,180,3,Linear,Terrace,3,Good,RYTset,cattle,M,Yes,"Fenced to exclude grazing, but... D peg up rooted. Cattle have accessed all fenced sites at Horse Gully"
+HG,3Fe,,,,,,,,,,,,,,,RYTset,hare,H,,
+HG,3Un,Horse Gully,25/03/16,"Sean, Lizzie",Morraine,Grazed,1593119,5337115,997,170,4,Linear,Terrace,3,Good,RYTset,cattle,L,Yes,
+HG,3Un,,,,,,,,,,,,,,,RYTset,hare,L,Yes,
+HG,3Un,,,,,,,,,,,,,,,RYTpum,hare,L,Yes,
+I,1,Cameron Stream,11/02/16,"Sean, Emi, Betka",,Grazed,1604812,5325293,1030,305,28,Linear,Face,3,Good,,,,,
+I,2,Cameron Stream,11/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1604893,5325474,1020,230,25,Convex,Face,3,Good,RYTset,cattle,L,Yes,"Photo's show colonisation by briar rose. Big changes. Appears to have dries out. A,B,C,D, pegs uprooted and replaced."
+I,3,Cameron Stream,11/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1604956,5325629,1040,250,23,Linear,Face,2.5,Good,MELalp,hare,H,Yes,
+I,4,Cameron Stream,11/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1605027,5325809,1080,255,23,Linear,Face,,Good,AGRcap,cattle,L,Yes,"A, C and D pegs crushed"
+I,4,,,,,,,,,,,,,,,FESnov,cattle,L,Yes,
+I,4,,,,,,,,,,,,,,,FESnov,hare,L,Yes,
+I,4,,,,,,,,,,,,,,,ANTodo,rabbit,M,Yes,
+I,4,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+J,1,Awatere,26/02/16,"Sean, Graeme, Betka",Colluvial,Grazed,1613510,5332545,1240,330,12,Concave,Gully,3,Good,MELalp,hare,H,Yes,All five pegs up rooted
+J,1,,,,,,,,,,,,,,,POAcol,cattle,L,Yes,25 meters above 4WD track
+J,1,,,,,,,,,,,,,,,RYTset,cattle,L,Yes,
+J,1,,,,,,,,,,,,,,,FESnov,cattle,L,Yes,
+J,1,,,,,,,,,,,,,,,MUEaxi,hare,L,Yes,
+J,2,Awatere,26/02/16,"Sean, Graeme, Betka",Colluvial,Grazed,1613586,5332719,1220,10,11,Concave,Gully,2.5,Good,FESrub,cattle,L,Yes,Four pegs up rooted
+J,2,,,,,,,,,,,,,,,POApra,cattle,L,Yes,20m below 4WD track
+J,2,,,,,,,,,,,,,,,FESnov,cattle,L,Yes,
+J,2,,,,,,,,,,,,,,,CARaus,hare,H,Yes,
+J,2,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+J,2,,,,,,,,,,,,,,,FESrub,deer,L,Yes,
+J,3,Awatere,26/02/16,"Sean, Graeme, Betka",Colluvial,Grazed,1613647,5332904,1190,140,19,,,2.5,Good,CHIfla,hare,H,Yes,� A � peg up rooted
+J,3,,,,,,,,,,,,,,,CHImac,hare,H,Yes,
+J,3,,,,,,,,,,,,,,,RYTset,cattle,L,Yes,
+J,4,Awatere,26/02/16,"Sean, Graeme, Betka",Colluvial,Grazed,1613719,5333074,1185,100,21,Convex,Face,3,Good,CHIfla,deer,H,Yes,Little cattle sign near this plot
+J,4,,,,,,,,,,,,,,,,,,,� C � corner up rooted
+K,1,Awatere,28/03/16,"Sean, Lizzie",,Grazed,1614726,5329449,1237,125,27,Convex,Face,3,Good,CHIfla,hare,M,Yes,Little cattle sign dear plot. All pegs found
+K,1,,,,,,,,,,,,,,,RYTset,cattle,L,Yes,
+K,2,Awatere,28/03/16,"Sean, Lizzie",Colluvial,Grazed,1614804,5329622,1216,45,24,Linear,Face,2.5,Good,MELalp,hare,H,Yes,All pegs found intact
+K,2,,,,,,,,,,,,,,,POApra,hare,M,Yes,
+K,3,Awatere,28/03/16,"Sean, Lizzie",Colluvial,Grazed,1614884,5329782,1178,85,28,Linear,Face,3,Good,RYTset,hare,M,Yes,
+K,3,,,,,,,,,,,,,,,DACglo,deer,M,Yes,
+K,3,,,,,,,,,,,,,,,TRIpra,cattle,M,Yes,
+K,4,Awatere,28/03/16,"Sean, Lizzie",Colluvial,Grazed,1614955,5329952,1130,30,26,Convex,Face,3,Good,DACglo,cattle,L,Yes,
+K,4,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+L,1,Awatere,29/03/16,"Sean, Lizzie",Colluvial,Grazed,1615700,5331367,1135,280,7,Convex,Ridge,3,Good,POApra,cattle,M,Yes,"A, C, pegs crushed. Center peg up rooted"
+L,1,,,,,,,,,,,,,,,POApra,deer,M,Yes,
+L,1,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+L,2,Awatere,29/03/16,"Sean, Lizzie",Colluvial,Grazed,1615778,5331538,1117,,,Convex,Ridge,3,Good,POApra,cattle,,Yes,A and D pegs crushed and Center peg up rooted
+L,2,,,,,,,,,,,,,,,POApra,hare,,Yes,
+L,2,,,,,,,,,,,,,,,POApra,deer,,Yes,
+L,3,Awatere,29/03/16,"Sean, Lizzie",Colluvial,Grazed,1615849,5331704,1133,10,31,Linear,Face,3,Good,DACglo,cattle,L,Yes,All pegs found
+L,3,,,,,,,,,,,,,,,DACglo,deer,L,Yes,
+L,3,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+L,4,Awatere,29/03/16,"Sean, Lizzie",Colluvial,Grazed,1615915,5331886,1131,255,26,Linear,Face,3.5,Good,POApra,deer,L,Yes,"All pegs up rooted, plot relocated using GPS. Co-ordinates. Heavely grazed prev Spring"
+L,4,,,,,,,,,,,,,,,POApra,cattle,L,Yes,
+L,4,,,,,,,,,,,,,,,POApra,hare,L,Yes,
+LD,1Fe,Leader Dale,14/01/16,"Sean, Lizzie, Emi",Colluvial,,1586578.20107806,5308445.73829392,940,70,12,Convex,Face,2,Good,POAcol,hare,L,Yes,Cattle seen behind fence
+LD,1Fe,,,,,,,,,,,,,,,MELalp,hare,M,Yes,
+LD,1Un,Leader Dale,15/01/16,"Sean, Lizzie, Emi",Colluvial,,1586535.21013858,5308401.75889239,940,240,12,Convex,Face,2,Good,MELalp,hare,M,Yes,
+LD,2Fe,Leader Dale,15/01/16,"Sean, Lizzie, Emi",Colluvial,,1586664.15516038,5308317.77105676,930,250,8,Linear,Face,2,Good,MELalp,hare,M,Yes,Cattle seen above fence
+LD,2Un,Leader Dale,21/01/16,"Sean, Lizzie, Emi",Colluvial,,1586611,5308282,940,140,7,Linear,Face,2,Good,,hare,,Yes,Cattle not bothered coming here
+LD,3Fe,Leader Dale,21/01/16,"Sean, Lizzie, Emi",Colluvial,,1586890,5308221,890,230,4,Linear,Terrace,2.5,Medium,,cattle,,Yes,Cattle inside fence. Not as wet as LD-3Unfenced
+LD,3Fe,,,,,,,,,,,,,,,,horse,,Yes,
+LD,3Un,Leader Dale,21/01/16,"Sean, Lizzie, Emi",Alluvial,,1586891,5308129,890,140,1,Linear,Terrace,,Medium,POAcol,cattle,M,Yes,All corner pegs trampled by cattle
+LD,3Un,,,,,,,,,,,,,,,,deer,,Yes,
+LD,3Un,,,,,,,,,,,,,,,,possum,,Yes,
+LD,3Un,,,,,,,,,,,,,,,POApra,cattle,M,,
+LD,3Un,,,,,,,,,,,,,,,FESrub,cattle,M,,
+LD,4Fe,Leader Dale,21/01/16,"Sean, Lizzie, Emi",Alluvial,Grazed,1586917,5308260,890,130,3,Linear,Terrace,3,Medium,,cattle,,Yes,Cattle grazed plot in past week. Fence looks good though
+LD,4Fe,,,,,,,,,,,,,,,,hare,,Yes,
+LD,4Un,Leader Dale,21/01/16,"Sean, Lizzie, Emi",Alluvial,Grazed,1586996,5308230,890,110,2,Linear,Terrace,2,Medium,FESrub,cattle,L,Yes,Two pegs trampled deep by cattle
+LD,4Un,,,,,,,,,,,,,,,FESnov,hare,L,Yes,
+LD,5Fe,Leader Dale,22/01/16,"Sean, Lizzie, Emi",Colluvial,,1587017,5308421,930,190,14,Linear,Face,2,Good,,,,,
+LD,5Un,Leader Dale,22/01/16,"Sean, Lizzie, Emi",,Grazed,1587067,5308418,930,150,5,Linear,Face,3,Good,CHImac,hare,M,Yes,No cattle grazing near plot
+LD,6Fe,Leader Dale,22/01/16,"Sean, Lizzie, Emi",Colluvial,,1587070,5308635,980,70,14,Linear,Face,2,Good,MELalp,hare,H,Yes,
+LD,6Un,Leader Dale,22/01/16,"Sean, Lizzie, Emi",,Grazed,1587096,5308634,980,170,10,Linear,Face,2,Good,CHImac,hare,M,Yes,No sign of grazing near plot
+M,1,Robinson Saddle,24/02/16,"Sean, Graeme, Betka, Emi",Colluvial,Grazed,1621979,5328607,1115,90,9,Concave,Terrace,3.5,Good,CHIfla,hare,H,Yes,Three pegs up rooted
+Molesworth,1,Bowscale,23/03/16,"Sean, Lizzie",Morraine,,1595394,5335823,1035,130,3,Linear,Terrace,3,Poor,,,,,M1-A- Finish =1595377   - 5335870
+M,1,,,,,,,,,,,,,,,KOEnov,cattle,L,Yes,
+M,1,,,,,,,,,,,,,,,CARuni,hare,H,Yes,
+M,2,Robinson Saddle,24/02/16,"Sean, Graeme, Betka, Emi",Colluvial,Grazed,1622055,5328804,1065,120,29,Convex,Face,3.5,Good,RYTset,cattle,L,Yes,�B� corner up rooted
+Molesworth,2,Fish Lake,25/03/16,"Sean, Lizzie",Morraine,,1593985,5337053,1023,145,4,Linear,Terrace,2.5,Good,,,,,M2-A- Finish =1594002   -5337004
+M,2,,,,,,,,,,,,,,,CARaus,hare,H,Yes,
+M,3,Robinson Saddle,25/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1622149,5329017,1060,10,25,Linear,Face,3,Good,MELalp,hare,H,Yes,
+Molesworth,3,Lake Sedgemere,12/02/16,"Sean, Emi, Betka",Alluvail,,1593217,5335124,1005,270,1,Linear,Terrace,2,Poor,,,,,"In past surveys, AGRcas may have been called AGRcap"
+M,3,,,,,,,,,,,,,,,DACglo,deer,M,Yes,
+M,3,,,,,,,,,,,,,,,POAcol,cattle,L,Yes,
+Molesworth,3,,,,,,,,,,,,,,,,,,,Plot Finish =1593267   -5335114
+M,4,Robinson Saddle,25/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1622221,5329187,1030,130,11,Concave,Terrace,3,Good,HOLlan,cattle,L,Yes,"�B� corner peg up rooted, �C� peg trampled"
+Molesworth,4,Lake Sedgemere,13/02/16,"Sean, Emi, Betka",Alluvail,,1593827,5335115,1000,320,2,Linear,Terrace,2,Poor,,,,,End =1593840   -5335067
+M,4,,,,,,,,,,,,,,,MUEaxi,hare,M,Yes,
+Molesworth,5,Bowscale,23/03/16,"Sean, Lizzie",Morraine,,1594307,5336163,1047,150,2,Linear,Terrace,2.5,Good,,,,,M5-A- Finish =1594271   -5336127
+Molesworth,6,Lake Sedgemere,13/02/16,"Sean, Emi, Betka",Alluvail,,1593303,5334939,1000,130,2,Linear,Terrace,,Poor,,,,,Behind cattle exclusion fence
+Molesworth,6,,,,,,,,,,,,,,,,,,,End =1593249   -5334938
+Molesworth,7,Lake Sedgemere,13/02/16,"Sean, Emi, Betka",Alluvail,Grazed,1593204,5334524,1010,30,1,Linear,Terrace,2.5,Medium,FESmat,cattle,M,Yes,Grazed hard
+Molesworth,7,,,,,,,,,,,,,,,AGRcap,cattle,M,Yes,End =1593158   -5334544
+Molesworth,7,,,,,,,,,,,,,,,POAcol,cattle,M,Yes,
+Molesworth,8,Lake Sedgemere,13/02/16,"Sean, Emi, Betka",Alluvail,,1593352,5334714,1005,110,1,Linear,Terrace,2,Poor,,,,,Behind grazing fence
+Molesworth,8,,,,,,,,,,,,,,,,,,,Start =1593318   -5334747
+Molesworth,9,Tennyson,24/01/16,"Sean, Emi",,Grazed,1580524,5326926,1100,230,3,Linear,Terrace,2,Poor,FESrub,cattle,H,Yes,Heavily grazed
+Molesworth,9,,,,,,,,,,,,,,,POApra,cattle,H,Yes,
+Molesworth,9,,,,,,,,,,,,,,,AGRcap,cattle,H,Yes,
+Molesworth,9,,,,,,,,,,,,,,,TRIrep,cattle,H,Yes,
+Molesworth,10,Serpentine,24/03/16,"Sean, Lizzie",Alluvail,,1581318,5329545,1158,130,3,Linear,Terrace,3,Medium,,,,,M10-a- Finish =1581278   -5329579
+Molesworth,10,,,,,,,,,,,,,,,,,,,Behind cattle exclusion fence
+Molesworth,11,Serpentine,14/01/16,"Sean, Lizzie, Emi",Alluvail,Grazed,1581957.50279655,5329242.23978003,1150,60,4,Linear,Terrace,2,Good,CHIrub,cattle,L,,Grazing of cattle at plot measurement
+Molesworth,11,,,,,,,,,,,,,,,FESmat,cattle,M,Yes,
+Molesworth,12,Lake Sedgemere,13/02/16,"Sean, Emi, Betka",Alluvail,Grazed,1593567,5334543,1005,330,2,Linear,Terrace,3,Poor,FESrub,cattle,L,Yes,End =1593610   -5334569
+Molesworth,12,,,,,,,,,,,,,,,POApra,cattle,L,Yes,Cattle grazing over summer
+Molesworth,12,,,,,,,,,,,,,,,AGRcap,cattle,L,Yes,
+Molesworth,12,,,,,,,,,,,,,,,CARova,cattle,L,Yes,
+Molesworth,12,,,,,,,,,,,,,,,HOLlan,cattle,L,Yes,
+Molesworth,13,Lake Sedgemere,13/02/16,"Sean, Emi, Betka",Alluvail,,1593610,5334683,1005,45,1,Linear,Terrace,2.5,Poor,,,,,Behind fence
+Molesworth,13,,,,,,,,,,,,,,,,,,,End =1593657   -5334665
+Molesworth,14,Fish Lake,25/03/16,"Sean, Lizzie",Morraine,,1593542,5337097,1021,210,,Linear,Terrace,2.5,Good,,,,,Fenced from cattle
+Molesworth,14,,,,,,,,,,,,,,,,,,,M14-A- End =1593552   -5337049
+Molesworth,15,Sedgemere Tarn,19/02/16,"Sean, Graeme, Emi, Betka",Morraine,,1591167,5335924,1075,50,2,Concave,Terrace,3,Poor,COLeff,hare,L,Yes,Plot has intensive weed control with herbicide
+Molesworth,15,,,,,,,,,,,,,,,AGRcap,hare,M,Yes,End =1591129   -5335955
+Molesworth,15,,,,,,,,,,,,,,,TRIrep,hare,L,Yes,Species with signs of browse along transed
+Molesworth,15,,,,,,,,,,,,,,,CARcol,hare,M,Yes,
+N,1,Crimea,17/01/16,"Sean, Emi, Lizzie",Colluvial,,1585130,5311949,1130,275,18,Linear,Face,2.5,Good,POAcol,hare,L,Yes,
+N,2,Crimea,17/01/16,"Sean, Emi, Lizzie",Colluvial,,1585210,5312142,1100,312,23,Linear,Face,2,Good,MELalp,hare,L,Yes,
+N,3,Crimea,17/01/16,"Sean, Emi, Lizzie",Colluvial,,1585281,5312315,1080,165,33,,,3,Good,ACIaur,hare,L,Yes,
+N,4,Crimea,17/01/16,"Sean, Emi, Lizzie",Colluvial,,1585360,5312474,1180,140,32,Linear,Face,3,Good,,,,,
+O,1,Leader Dale,30/01/16,"Sean, Emi",Colluvial,None,1585611,5309660,1110,50,22,Convex,Ridge,3,Good,,pig,,Yes,Conspicuos pig rooting in plot. C. scoparius and P. contorta nearby.
+O,1,,,,,,,,,,,,,,,ACIaur,hare,M,Yes,
+O,1,,,,,,,,,,,,,,,ANTodo,dear,L,Yes,
+O,2,Leader Dale,31/01/16,"Sean, Emi",Colluvial,,1585676,5309813,1050,355,27,Convex,Face,3.5,Good,MELalp,hare,H,Yes,C. scoparius near plot.
+O,3,Leader Dale,30/01/16,"Sean, Emi",,None,1585735,5309961,1050,124,27,Linear,Ridge,2.5,Good,CHIfla,hare,L,Yes,
+O,4,Leader Dale,30/01/16,"Sean, Emi",Colluvial,,1585825,5310170,1010,140,26,Convex,Face,3,Good,MELalp,hare,M,Yes,
+P,1,Clarence,10/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1590028,5299994,930,316,27,Concave,Face,3.5,Good,,,,,No sign of cattle near plot.
+P,2,Clarence,10/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1590124,5300268,950,180,24,Linear,Face,3,Good,CHIfla,hare,L,Yes,No cattle here. Pinrad colonising gulley and one 10m tree overhang.
+P,3,Clarence,10/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1590188,5300436,1040,160,33,Linear,Face,3,Good,MELalp,hare,H,Yes,No cattle near plot. All pegs found.
+P,4,Clarence,10/02/16,"Sean, Emi, Betka",,Grazed,1590253,5300598,1140,155,12,Convex,Face,3,Good,COPche,hare,H,Yes,No cattle for >1km
+PT,1Fe,Pig Trough,06/02/16,"Sean, Lizzie, Emi",,,1603552,5315982,940,235,22,Convex,Face,2.5,Good,POAcol,hare,L,Yes,All Pimela in Pig Trough ided as PIMser was PIMore
+PT,1Fe,,,,,,,,,,,,,,,,,,,Some sign of cattle near plot (inside fence). All pegs found
+PT,1Un,Pig Trough,06/02/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1603523,5315991,925,280,22,Linear,Face,3,Good,MELalp,hare,M,Yes,"C, D and Center pegs up rooted"
+PT,1Un,,,,,,,,,,,,,,,POAcol,cattle,M,Yes,
+PT,2Fe,Pig Trough,06/02/16,"Sean, Lizzie, Emi",Colluvial,,1603431,5315772,910,30,23,Linear,Face,2.5,Good,HOLlan,hare,L,Yes,All pegs found intact
+PT,2Un,Pig Trough,06/02/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1603376,5315815,920,360,30,Linear,Face,2,Good,ANTsol,cattle,M,Yes,"D and C pegs up rooted, A peg crushed"
+PT,2Un,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+PT,3Fe,Pig Trough,06/02/16,"Sean, Lizzie, Emi",Colluvial,,1603905,5316170,1115,170,2,Linear,Face,3,Good,MELalp,hare,H,Yes,
+PT,3Un,Pig Trough,06/02/16,"Sean, Lizzie, Emi",,,1603906,5316177,1115,300,23,Convex,Face,3,Good,POApra,chamois,L,Yes,All pegs found
+PT,3Un,,,,,,,,,,,,,,,POAcol,hare,L,Yes,
+Q,1,Ribble,29/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1595996,5301276,935,254,24,Linear,Face,3,Good,CRMaus,hare,H,Yes,All pegs intact
+Q,2,Ribble,29/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1596072,5301452,950,284,36,Linear,Face,2.5,Good,POAcol,hare,L,Yes,B corner peg up rooted on scree slide.
+Q,2,,,,,,,,,,,,,,,POAcol,possum,L,Yes,
+Q,2,,,,,,,,,,,,,,,CRMaus,hare,L,,
+Q,3,Ribble,29/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1596142,5301631,950,320,28,Concave,Gully,3.5,Good,POAcol,hare,M,Yes,
+Q,3,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+Q,3,,,,,,,,,,,,,,,MELalp,possum,M,Yes,
+Q,4,Ribble,29/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1596207,5301814,980,,,Linear,Face,3,Good,MELalp,hare,H,Yes,All pegs found.
+Q,4,,,,,,,,,,,,,,,CRMaus,hare,H,Yes,
+R,1,Hossack,23/02/16,"Sean, Emi, Betka",Alluvial,Grazed,1601669,5307038,695,125,1,Linear,Terrace,5,Poor,PHLpra,cattle,M,Yes,All five pegs trampled
+R,1,,,,,,,,,,,,,,,FESrub,cattle,M,,
+R,1,,,,,,,,,,,,,,,HOLlan,cattle,L,,
+R,1,,,,,,,,,,,,,,,POApra,cattle,L,,
+R,1,,,,,,,,,,,,,,,POAtri,cattle,L,,
+R,2,Hossack,28/02/16,"Sean, Emi, Betka",,Grazed,1601746,5307218,722,125,13,Linear,Face,3,Good,POAcol,hare,L,Yes,A corner peg up rooted and center.
+R,3,Hossack,28/02/16,"Sean, Emi, Betka",,Grazed,1601826,5307407,770,310,21,Linear,Face,3,Good,CRMaus,hare,H,Yes,"All pegs found, Center peg crushed"
+R,4,Hossack,28/02/16,"Sean, Emi, Betka",Colluvial,,1601908,5307576,822,150,26,Linear,Face,3,Good,CARbre,hare,M,Yes,D corner up rooted
+R,4,,,,,,,,,,,,,,,POAcol,hare,L,Yes,
+R,4,,,,,,,,,,,,,,,CHIfla,hare,M,Yes,
+S,1,Rough Creek,01/02/16,"Sean, Lizzie, Emi",Colluvial,None,1616634,5316442,1325,225,35,Linear,Face,2,Good,,,,,
+Saxton,1,Saxton,11/01/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1617125,5355241,1260,95,5,Linear,Terrace,2,Good,FESmat,cattle,,Yes,Fenced paor to S2
+Saxton,1,,,,,,,,,,,,,,,FESmat,hare,,Yes,Nice landing sites near plot. Good camping
+Saxton,1,,,,,,,,,,,,,,,,geese,,Yes,
+S,2,Rough Creek,01/02/16,"Sean, Lizzie, Emi",Colluvial,None,1616546,5316260,1320,265,32,Linear,Face,3,Good,MELalp,hare,H,Yes,
+Saxton,2,Saxton,10/01/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1617074,5355151,1250,90,5,Linear,Terrace,4,Good,RYTset,hare,M,Yes,Fenced pair to S1
+S,3,Rough Creek,01/02/16,"Sean, Lizzie, Emi",Colluvial,None,1616461,5316089,1275,140,5,Linear,Ridge,3,Good,POAcol,hare,L,Yes,
+Saxton,3,Saxton,11/01/16,"Sean, Lizzie, Emi",Colluvial,,1615532,5354521,1480,20,12,Linear,Face,3,Good,CHIfla,hare,L,Yes,
+Saxton,3,,,,,,,,,,,,,,,,deer,,Yes,
+Saxton,3,,,,,,,,,,,,,,,,geese,,Yes,
+S,4,Rough Creek,01/02/16,"Sean, Lizzie, Emi",Colluvial,None,1616378,5315917,1230,200,20,Linear,Ridge,3,Good,RYTset,hare,L,Yes,
+Saxton,4,Saxton,11/01/16,"Sean, Lizzie, Emi",,,1615571,5354684,1450,35,5,Linear,Terrace,3,Poor,CHIfla,deer,L,Yes,"Plot marked in 1989, but not measured prev"
+Saxton,4,,,,,,,,,,,,,,,,geese,,Yes,End of plot transect  -2525573   -5916364
+Saxton,5,Saxton,12/01/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1614727,5351371,1200,210,12,Linear,Terrace,3,Good,RYTset,cattle,L,Yes,Cattle in vicinity of plot
+Saxton,5,,,,,,,,,,,,,,,RYTset,hare,L,Yes,
+Saxton,5,,,,,,,,,,,,,,,,geese,,Yes,
+Saxton,6,Saxton,12/01/16,"Sean, Lizzie, Emi",Colluvial,,1614533,5351621,1250,180,8,Linear,Terrace,3,Good,,cattle,,Yes,
+Saxton,6,,,,,,,,,,,,,,,,hare,,Yes,
+Saxton,6,,,,,,,,,,,,,,,,geese,,Yes,
+SD,1Fe,Sedgemere,16/02/16,"Sean, Emi, Betka",Morraine,,1594189,5333740,1015,160,11,Convex,Terrace,3,Good,RYTset,hare,L,Yes,
+SD,1Un,Sedgemere,16/02/16,"Sean, Emi, Betka",Morraine,Grazed,1594118,5333738,1015,270,5,Linear,Terrace,3,Good,POAcol,hare,L,Yes,No sign of cattle near plot
+SD,2Fe,Sedgemere,18/02/16,"Sean, Graeme, Emi, Betka",Morraine,Tracked,1594454,5333356,1010,110,1,Linear,Terrace,2,Good,FESmat,hare,L,Yes,"Cattle were in plot, B corner peg up rooted"
+SD,2Fe,,,,,,,,,,,,,,,FESmat,cattle,,Yes,
+SD,2Un,Sedgemere,18/02/16,"Sean, Graeme, Emi, Betka",Morraine,Grazed,1594372,5333309,1010,130,2,Linear,Terrace,3,Poor,POAcol,hare,L,Yes,A  and B corner pegs up rooted
+SD,2Un,,,,,,,,,,,,,,,FESmat,cattle,L,Yes,
+SD,3Fe,Sedgemere,18/02/16,"Sean, Graeme, Emi, Betka",Morraine,Tracked,1594591,5333071,1005,100,2,Linear,Terrace,3,Poor,POAcol,hare,L,Yes,"A, B, C, D, pegs up rooted"
+SD,3Fe,,,,,,,,,,,,,,,FESmat,hare,L,Yes,Ajacent to 4WD track from Tarndale
+SD,3Un,Sedgemere,18/02/16,"Sean, Graeme, Emi, Betka",Morraine,Tra/Graz,1594531,5333019,1005,80,2,Linear,Terrace,2.5,Poor,FESmat,cattle,L,Yes,
+SD,3Un,,,,,,,,,,,,,,,FESmat,hare,L,Yes,
+ST,1Fe,Serpentine,20/01/16,"Sean, Lizzie Emi",Colluvial,,1581315,5329460,1150,350,29,Linear,Face,2.5,Good,,,,Geese,
+ST,1Fe,,,,,,,,,,,,,,,,,,hare,
+ST,1Un,Serpentine,19/01/16,"Sean, Lizzie Emi",Colluvial,Grazed,1581440,5329344,1150,30,25,Linear,Face,3,Good,POAcol,cattle,H,Yes,Only A corner peg found. Others replaced
+ST,1Un,,,,,,,,,,,,,,,,deer,,Yes,
+ST,1Un,,,,,,,,,,,,,,,,possum,,Yes,
+ST,1Un,,,,,,,,,,,,,,,,hare,,Yes,
+ST,2Fe,Serpentine,20/01/16,"Sean, Lizzie Emi",Alluvial,,1581391,5329512,1150,150,3,Linear,Terrace,3,Poor,,,,,Most plot pegs not found. Plot relaid
+ST,2Un,Serpentine,19/01/16,"Sean, Lizzie Emi",Alluvial,Grazed,1581419,5329402,1150,140,1,Linear,Terrace,3,Poor,TRIrep,cattle,M,Yes,A corner peg replaced. Other pegs under 10cm of silt. Turf from grazing. Distinctive small bolders at A corner
+ST,2Un,,,,,,,,,,,,,,,FESrub,cattle,H,,see photo.
+ST,2Un,,,,,,,,,,,,,,,HOLlan,cattle,H,,
+ST,2Un,,,,,,,,,,,,,,,POAcol,cattle,H,,
+ST,2Un,,,,,,,,,,,,,,,LOTped,cattle,L,,
+ST,2Un,,,,,,,,,,,,,,,FESnov,cattle,M,,
+ST,3Fe,Serpentine,20/01/16,"Sean, Lizzie Emi",Colluvial,,1581450,5329568,1150,170,4,Concave,Gully,3,Poor,,,,,Wet
+ST,3Un,Serpentine,20/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1581480,5329554,1160,170,3,Linear,Terrace,3,Poor,CHImac,cattle,L,Yes,
+ST,3Un,,,,,,,,,,,,,,,POAcol,cattle,L,,
+ST,3Un,,,,,,,,,,,,,,,CHIrub,hare,L,Yes,
+ST,3Un,,,,,,,,,,,,,,,SCHpau,hare,L,,
+ST,3Un,,,,,,,,,,,,,,,FESmat,hare,L,,
+ST,3Un,,,,,,,,,,,,,,,AGRcap,cattle,L,,
+ST,4Fe,Serpentine,20/02/16,"Sean, Emi, Betka",Colluvial,,1581450,5329636,1170,240,17,Convex,Face,3,Good,CHImac,cattle,L,Yes,All pegs found intact. Sign of cattle behind fence
+ST,4Fe,,,,,,,,,,,,,,,CHImac,hare,L,Yes,
+ST,4Un,Serpentine,20/02/16,"Sean, Emi, Betka",Colluvial,Grazed,1581494,5329619,1175,150,11,Concave,Face,3,Medium,CHImac,cattle,L,Yes,
+ST,4Un,,,,,,,,,,,,,,,CHImac,hare,L,Yes,
+ST,4Un,,,,,,,,,,,,,,,POAcol,hare,L,,
+ST,5Fe,Serpentine,20/02/16,"Sean, Emi, Betka",Colluvial,,1581495,5329718,1190,210,10,Linear,Face,3,Good,CHImac,hare,L,Yes,
+ST,5Un,Serpentine,27/03/16,"Sean, Lizzie",Morraine,Grazed,1581506,5329716,1190,125,18,Concave,Ridge,3.5,Good,RYTset,hare,L,Yes,"Center peg uprooted, A peg crashed. No sign of cattle"
+ST,5Un,,,,,,,,,,,,,,,CHIaus,hare,L,Yes,
+ST,5Un,,,,,,,,,,,,,,,CHImac,hare,L,Yes,
+ST,6Fe,Serpentine,26/03/16,"Sean, Lizzie",Morraine,,1581496,5329793,1205,180,7,Concave,Ridge,3,Good,CHImac,hare,L,Yes,All pegs found intact
+ST,6Un,Serpentine,26/03/16,"Sean, Lizzie",Morraine,Grazed,1581504,5329797,1211,130,15,Concave,Ridge,3.5,Good,CHImac,hare,L,Yes,A corner peg crushed
+ST,6Un,,,,,,,,,,,,,,,CHIaus,cattle,L,Yes,
+SW,1Fe,Sedgemere,16/02/16,"Sean, Emi, Betka",Alluvial,,1593974,5334127,1010,290,1,Linear,Terrace,3,Poor,FESrub,geese,L,Yes,All pegs found intact
+SW,1Un,Sedgemere,16/02/16,"Sean, Emi, Betka",,Grazed,1593937,5334112,1010,350,1,Linear,Terrace,3,Poor,AGRcan,cattle,L,Yes,Cattle reluctant to tavel through swamp to SW plots. Much less cattle sign than Tarndale side of swamp.
+SW,1Un,,,,,,,,,,,,,,,FESrub,cattle,L,Yes,D peg crushed
+SW,1Un,,,,,,,,,,,,,,,HOLlan,cattle,L,Yes,
+SW,2Fe,Sedgemere,14/02/16,"Sean, Emi, Betka",Alluvial,,1593839,5334324,1005,60,1,Linear,Terrace,3,Poor,,,,,No browse
+SW,2Un,Sedgemere,14/02/16,"Sean, Emi, Betka",Alluvial,Grazed,1593815,5334340,1000,90,1,Linear,Terrace,3,Poor,,,,,No recent grazing near plot
+SW,3Fe,Sedgemere,14/02/16,"Sean, Emi, Betka",Alluvial,,1593766,5334521,1000,330,1,Linear,Terrace,3,Poor,,,,,No Browse
+SW,3Un,Sedgemere,14/02/16,"Sean, Emi, Betka",Alluvial,Grazed,1593692,5334489,1010,20,2,Linear,Terrace,3,Poor,,,,,"Cattle have access, but no sign of grazing near plot"
+WR,1Fe,Wairau River,05/02/16,"Sean, Emi",Colluvial,None,1580057,5332698,1240,210,6,Concave,Terrace,3,Good,CHImac,hare,L,Yes,
+WR,1Un,Wairau River,05/02/16,"Sean, Emi",Colluvial,None,1580061,5332696,1230,140,8,Linear,Terrace,3,Good,RYTset,hare,L,Yes,All five pegs up rooted. Plot reconstructed from D (which was found on ground)
+WR,2Fe,Wairau River,05/02/16,"Sean, Emi",Morraine,None,1580027,5332396,1290,290,14,Convex,Ridge,3,Good,MELalp,hare,M,Yes,All pegs found intact
+WR,2Fe,,,,,,,,,,,,,,,CHImac,hare,L,Yes,
+WR,2Un,Wairau River,03/02/16,"Sean, Emi",Morraine,,1580032,5332392,1275,20,10,Convex,Ridge,3,Good,RYTset,cattle,M,Yes,"A,C and Center Pegs up rooted. B peg crushed and buried"
+WR,2Un,,,,,,,,,,,,,,,RYTset,hare,L,Yes,
+WR,3Fe,Wairau River,03/02/16,"Sean, Emi",Morraine,None,1579956,5332295,1300,320,9,Concave,Ridge,3,Good,RYTset,hare,M,Yes,A corner peg removed and replaced center peg crushed
+WR,3Un,Wairau River,03/02/16,"Sean, Emi",Morraine,Grazed,1579957,5332288,1295,340,21,Concave,Ridge,3,Good,MUEaxi,hare,H,Yes,"A corner and central pegs trampled and broken, cattle near plot"
+WR,3Un,,,,,,,,,,,,,,,FESrub,cattle,M,Yes,
+Z1,1,Bunkers,07/01/16,"Sean, Emi, Betka",Colluvial,Grazed,1594280,5310247,1053,140,28,Concave,Face,3,Good,CHIfla,hare,L,Yes,"No cattle this high up slope, all pegs found."
+Z1,1,,,,,,,,,,,,,,,CHIfla,deer,L,Yes,
+Z1,2,Bunkers,07/01/16,"Sean, Emi, Betka",Colluvial,Grazed,1594432,5310636,1191,182,33,Convex,Face,3,Good,CHIfla,chamois,L,Yes,No cattle this high up valley. Center and C pegs up rooted.
+Z1,2,,,,,,,,,,,,,,,CHIfla,hare,L,Yes,
+Z1,3,Bunkers,07/01/16,"Sean, Emi, Betka",Colluvial,Grazed,1594494,5310788,1302,230,28,Linear,Face,3,Good,CHIfla,hare,M,Yes,No cattle this high. All pegs found.
+Z1,4,Bunkers,07/01/16,"Sean, Emi, Betka",Colluvial,,1594560,5310927,1396,140,29,Convex,Face,3.5,Good,CHImac,deer,L,Yes,Center peg up rooted.
+Z1,4,,,,,,,,,,,,,,,CHImac,hare,L,Yes,
+Z2,1,Boundary Stream,23/01/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1598109,5311936,815,355,24,Linear,Face,2,Good,MELalp,hare,H,Yes,
+Z2,2,Boundary Stream,23/01/16,"Sean, Lizzie, Emi",,Grazed,1598195,5312131,815,170,26,Linear,Face,2.5,Good,MELalp,hare,M,Yes,
+Z2,3,Boundary Stream,23/01/16,"Sean, Lizzie, Emi",,Grazed,1598265,5312288,910,110,16,Convex,Ridge,,Good,MELalp,hare,M,Yes,
+Z2,3,,,,,,,,,,,,,,,POAcol,cattle,L,Yes,
+Z2,4,Boundary Stream,23/01/16,"Sean, Lizzie, Emi",Colluvial,Grazed,1598346,5312465,900,145,25,Linear,Face,3,Good,ACIaur,hare,L,Yes,Valley stocked with several hundred cattle. Acheron
+Z2,4,,,,,,,,,,,,,,,MELalp,hare,H,Yes,
+Z2,4,,,,,,,,,,,,,,,COPpro,hare,M,Yes,
+Z2,4,,,,,,,,,,,,,,,ANTodo,cattle,L,Yes,

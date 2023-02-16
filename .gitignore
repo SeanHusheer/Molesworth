@@ -1,0 +1,26 @@
+/**
+# A list of files to exclude from git ignore. I.e. these files will be uploaded.
+## All r files to be included in github have little r. 
+
+!Data/
+!Data/*.csv
+
+!.gitignore
+!README.md
+!*.r
+*.rmd
+*.qgs
+*.QGS
+*.rnw
+*.R
+*.RNW
+*.rda
+*.rds
+*.RDS
+*.rdata
+*.RDATA
+*.Rmd
+*.Rproj
+*.rrd
+*.r#
+*.R#
