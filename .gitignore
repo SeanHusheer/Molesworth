@@ -1,9 +1,31 @@
 /**
-# A list of files to exclude from git ignore. I.e. these files will be uploaded.
+# A list of files to exclude from git ignore. i.e. these files will be uploaded.
 ## All r files to be included in github have little r. 
 
 !Data/
 !Data/*.csv
+
+!Spatial/
+!Spatial/*.csv
+!Spatial/*.kml
+!Spatial/*.kmz
+!Spatial/*.csv
+!Spatial/*.csv
+
+!Molesworth_Plot_Remeasurement_2016_Operational_ReportAugust.pdf
+
+!Corrections/
+!Corrections/*.csv
+!Molesworth1987ReccesNVS/
+!Molesworth1987ReccesNVS/*.csv
+!Molesworth2016paired/
+!Molesworth2016paired/*.csv
+!Molesworth2016random/
+!Molesworth2016random/*.csv
+!MolesworthRecceTier1/
+!MolesworthRecceTier1/*.csv
+!WraightWairauSurveys/
+!WraightWairauSurveys/*.csv
 
 !.gitignore
 !README.md
