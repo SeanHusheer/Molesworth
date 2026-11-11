@@ -2,6 +2,9 @@
 # A list of files to exclude from git ignore. i.e. these files will be uploaded.
 ## All r files to be included in github have little r. 
 
+!Images/
+!Images/MolesworthTarndaleBetskaSofia.jpg
+
 !Data/
 !Data/*.csv
 
